@@ -1,0 +1,26 @@
+.container {
+    width: 200px;
+    height: 300px;
+    border: solid 1px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #d66666;
+}
+
+.divInit {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(223deg, #e01515, #3a4aa6);
+}
+.img {
+    position: fixed;
+    top: 50px;
+    left: 200px;
+}
+.divpai{
+    background-color: bisque;
+}
